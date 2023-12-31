@@ -1,0 +1,32 @@
+body {
+    background-color: aqua;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 {
+    text-align: center;
+    font-size: 50px;
+    background-color: white;
+}
+
+h2{
+    text-align: left;
+}
+
+p { 
+    font-size: larger;
+}
+
+p.link {
+    display: inline-block
+}
+
+img#main-page {
+    width: 1000px;
+    height: auto
+}
+
+li {
+    text-align: left;
+}
