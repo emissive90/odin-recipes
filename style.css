@@ -5,21 +5,51 @@ body {
 }
 
 h1 {
+    border: 20px groove red;
     text-align: center;
     font-size: 50px;
     background-color: white;
+    width: 400px;
+    padding: 10px;
+    margin: 20px auto;
 }
 
 h2{
     text-align: left;
+}
+h4{
+    background-color: whitesmoke;
+    width: 600px;
+    margin: 0px auto;
 }
 
 p { 
     font-size: larger;
 }
 
+.description{
+    margin-top: 10px;
+    margin-left: 600px;
+    width: 800px;
+    padding: 10px;
+    background-color: white; 
+    border: outset 12px yellow;   
+}
+
+.miso {
+    width: 600px;
+}
+
+.recipe{
+    background-color: white;
+    padding: 5px;
+}
+
 p.link {
-    display: inline-block
+    background-color: white;
+    display: inline-block;
+    padding: 10px;
+    border: outset 5px orange;
 }
 
 img#main-page {
